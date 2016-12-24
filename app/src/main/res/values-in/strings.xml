@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">ChangeLanguageWithoutOpenSetting</string>
+    <string name="label_change_language">Nama saya adalah putuguna dan saya tinggal di Bali, Indonesia</string>
+    <string name="label_change_english">Inggris</string>
+    <string name="label_change_bahasa">Indonesia</string>
+    <string name="label_jadilah_anak_yang_baik">Jadilah anak yang baik</string>
+    <string name="label_next_activity">Activity Selanjutnya</string>
+    <string name="label_go_to_mainactivity">Ke MainActivity</string>
+    <string name="label_spinner_promt">Pilih Bahasa</string>
+    <array name="array_spinner">
+        <item>Silakan pilih bahasa</item>
+        <item>Indonesia</item>
+        <item>English</item>
+    </array>
+</resources>
